@@ -1,0 +1,28 @@
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\bin\Debug\KCrumpton-CPT 206 - Lab 3.exe.config
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\bin\Debug\KCrumpton-CPT 206 - Lab 3.exe
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\bin\Debug\KCrumpton-CPT 206 - Lab 3.pdb
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton-CPT 206 - Lab 3.csproj.AssemblyReference.cache
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton_CPT_206___Lab_3.Form1.resources
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton_CPT_206___Lab_3.Properties.Resources.resources
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton-CPT 206 - Lab 3.csproj.GenerateResource.cache
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton-CPT 206 - Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton-CPT 206 - Lab 3.exe
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton-CPT 206 - Lab 3.pdb
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton_CPT_206___Lab_3.StateDetails.resources
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\bin\Debug\States.mdf
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\bin\Debug\States_log.ldf
+C:\Users\magic\source\repos\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton_CPT_206___Lab_3.MoreDetails.resources
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\bin\Debug\States.mdf
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\bin\Debug\States_log.ldf
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\bin\Debug\KCrumpton-CPT 206 - Lab 3.exe.config
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\bin\Debug\KCrumpton-CPT 206 - Lab 3.exe
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\bin\Debug\KCrumpton-CPT 206 - Lab 3.pdb
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton-CPT 206 - Lab 3.csproj.AssemblyReference.cache
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton_CPT_206___Lab_3.Form1.resources
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton_CPT_206___Lab_3.MoreDetails.resources
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton_CPT_206___Lab_3.Properties.Resources.resources
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton_CPT_206___Lab_3.StateDetails.resources
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton-CPT 206 - Lab 3.csproj.GenerateResource.cache
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton-CPT 206 - Lab 3.csproj.CoreCompileInputs.cache
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton-CPT 206 - Lab 3.exe
+C:\Users\magic\OneDrive\Desktop\CPT 206 - Adv C#\KCrumpton-CPT 206 - Lab 3\obj\Debug\KCrumpton-CPT 206 - Lab 3.pdb

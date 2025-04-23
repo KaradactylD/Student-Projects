@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D20590B6-33E2-4CBC-9697-922A4A8EA244}|KCrumpton-CPT 206 - Lab 3.csproj|c:\\users\\magic\\onedrive\\desktop\\cpt 206 - adv c#\\kcrumpton-cpt 206 - lab 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20590B6-33E2-4CBC-9697-922A4A8EA244}|KCrumpton-CPT 206 - Lab 3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20590B6-33E2-4CBC-9697-922A4A8EA244}|KCrumpton-CPT 206 - Lab 3.csproj|C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\moredetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20590B6-33E2-4CBC-9697-922A4A8EA244}|KCrumpton-CPT 206 - Lab 3.csproj|solutionrelative:moredetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20590B6-33E2-4CBC-9697-922A4A8EA244}|KCrumpton-CPT 206 - Lab 3.csproj|C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\statedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D20590B6-33E2-4CBC-9697-922A4A8EA244}|KCrumpton-CPT 206 - Lab 3.csproj|solutionrelative:statedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20590B6-33E2-4CBC-9697-922A4A8EA244}|KCrumpton-CPT 206 - Lab 3.csproj|C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\moredetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D20590B6-33E2-4CBC-9697-922A4A8EA244}|KCrumpton-CPT 206 - Lab 3.csproj|solutionrelative:moredetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20590B6-33E2-4CBC-9697-922A4A8EA244}|KCrumpton-CPT 206 - Lab 3.csproj|C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\statedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D20590B6-33E2-4CBC-9697-922A4A8EA244}|KCrumpton-CPT 206 - Lab 3.csproj|solutionrelative:statedetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D20590B6-33E2-4CBC-9697-922A4A8EA244}|KCrumpton-CPT 206 - Lab 3.csproj|C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D20590B6-33E2-4CBC-9697-922A4A8EA244}|KCrumpton-CPT 206 - Lab 3.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoreDetails.cs",
+              "DocumentMoniker": "C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\MoreDetails.cs",
+              "RelativeDocumentMoniker": "MoreDetails.cs",
+              "ToolTip": "C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\MoreDetails.cs",
+              "RelativeToolTip": "MoreDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:40:12.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoreDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\MoreDetails.cs",
+              "RelativeDocumentMoniker": "MoreDetails.cs",
+              "ToolTip": "C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\MoreDetails.cs [Design]",
+              "RelativeToolTip": "MoreDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T21:12:09.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StateDetails.cs",
+              "DocumentMoniker": "C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\StateDetails.cs",
+              "RelativeDocumentMoniker": "StateDetails.cs",
+              "ToolTip": "C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\StateDetails.cs",
+              "RelativeToolTip": "StateDetails.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:57:03.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StateDetails.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\StateDetails.cs",
+              "RelativeDocumentMoniker": "StateDetails.cs",
+              "ToolTip": "C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\StateDetails.cs [Design]",
+              "RelativeToolTip": "StateDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T14:48:48.91Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHMAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:37:11.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\magic\\OneDrive\\Desktop\\CPT 206 - Adv C#\\KCrumpton-CPT 206 - Lab 3\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\magic\\source\\repos\\KCrumpton-CPT 206 - Lab 3\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\KCrumpton-CPT 206 - Lab 3\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T20:11:25.762Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
