@@ -1,0 +1,35 @@
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\KCrumpton-CPT 206-Final Project-Slot Machine.exe.config
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\KCrumpton-CPT 206-Final Project-Slot Machine.exe
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\KCrumpton-CPT 206-Final Project-Slot Machine.pdb
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton-CPT 206-Final Project-Slot Machine.csproj.AssemblyReference.cache
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton_CPT_206_Final_Project_Slot_Machine.Properties.Resources.resources
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton-CPT 206-Final Project-Slot Machine.csproj.GenerateResource.cache
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton-CPT 206-Final Project-Slot Machine.csproj.CoreCompileInputs.cache
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton-CPT 206-Final Project-Slot Machine.exe
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton-CPT 206-Final Project-Slot Machine.pdb
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\x86\sqlite3.dll
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\x64\sqlite3.dll
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\EntityFramework.dll
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\HtmlAgilityPack.dll
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\System.Data.SQLite.dll
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\EntityFramework.xml
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\HtmlAgilityPack.xml
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\System.Data.SQLite.xml
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpto.437B7D74.Up2Date
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton_CPT_206_Final_Project_Slot_Machine.Game.resources
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton_CPT_206_Final_Project_Slot_Machine.Create.resources
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton_CPT_206_Final_Project_Slot_Machine.Main.resources
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\kill her mommy.wav
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\theme.wav
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\bin\Debug\night.wav
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton_CPT_206_Final_Project_Slot_Machine.Details.resources
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton_CPT_206_Final_Project_Slot_Machine.Details2.resources
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton_CPT_206_Final_Project_Slot_Machine.MiniGame.resources
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton_CPT_206_Final_Project_Slot_Machine.PrizeForm.resources
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\Interop.WMPLib.dll
+C:\Users\magic\source\repos\KCrumpton-CPT 206-Final Project-Slot Machine\obj\Debug\KCrumpton-CPT 206-Final Project-Slot Machine.csproj.ResolveComReference.cache
