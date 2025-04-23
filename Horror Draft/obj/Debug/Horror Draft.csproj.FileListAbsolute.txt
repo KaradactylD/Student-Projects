@@ -1,0 +1,593 @@
+C:\Users\magic\source\repos\Horror Draft\obj\Debug\Horror Draft.csproj.AssemblyReference.cache
+C:\Users\magic\source\repos\Horror Draft\obj\Debug\Horror_Draft.Properties.Resources.resources
+C:\Users\magic\source\repos\Horror Draft\obj\Debug\Horror Draft.csproj.GenerateResource.cache
+C:\Users\magic\source\repos\Horror Draft\obj\Debug\Horror Draft.csproj.CoreCompileInputs.cache
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\Horror Draft.exe.config
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft\obj\Debug\Horror_Draft.Form1.resources
+C:\Users\magic\source\repos\Horror Draft\obj\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft\obj\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Buffers.dll
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.IO.Pipelines.dll
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Memory.dll
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Text.Json.dll
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.ValueTuple.dll
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Buffers.xml
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.IO.Pipelines.xml
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Memory.xml
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Text.Json.xml
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magic\source\repos\Horror Draft\bin\Debug\System.ValueTuple.xml
+C:\Users\magic\source\repos\Horror Draft\obj\Debug\Horror D.5F357B5E.Up2Date
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\Horror Draft.exe.config
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Buffers.dll
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.IO.Pipelines.dll
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Memory.dll
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Text.Json.dll
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.ValueTuple.dll
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Buffers.xml
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.IO.Pipelines.xml
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Memory.xml
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Text.Json.xml
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\bin\Debug\System.ValueTuple.xml
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\obj\Debug\Horror Draft.csproj.AssemblyReference.cache
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\obj\Debug\Horror_Draft.Form1.resources
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\obj\Debug\Horror_Draft.Properties.Resources.resources
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\obj\Debug\Horror Draft.csproj.GenerateResource.cache
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\obj\Debug\Horror Draft.csproj.CoreCompileInputs.cache
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\obj\Debug\Horror D.5F357B5E.Up2Date
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\obj\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\obj\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft - STEP TWO\obj\Debug\Horror_Draft.Login.resources
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\obj\Debug\Horror Draft.csproj.AssemblyReference.cache
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\obj\Debug\Horror_Draft.Form1.resources
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\obj\Debug\Horror_Draft.Login.resources
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\obj\Debug\Horror_Draft.Properties.Resources.resources
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\obj\Debug\Horror Draft.csproj.GenerateResource.cache
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\obj\Debug\Horror Draft.csproj.CoreCompileInputs.cache
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\obj\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\obj\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\Horror Draft.exe.config
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Buffers.dll
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.IO.Pipelines.dll
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Memory.dll
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Text.Json.dll
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.ValueTuple.dll
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Buffers.xml
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.IO.Pipelines.xml
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Memory.xml
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Text.Json.xml
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\bin\Debug\System.ValueTuple.xml
+C:\Users\magic\source\repos\Horror Draft - STEP THREE\obj\Debug\Horror D.5F357B5E.Up2Date
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Horror Draft.exe.config
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Buffers.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.IO.Pipelines.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Memory.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Text.Json.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.ValueTuple.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Buffers.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.IO.Pipelines.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Memory.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Text.Json.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.ValueTuple.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\obj\Debug\Horror Draft.csproj.AssemblyReference.cache
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\obj\Debug\Horror_Draft.Form1.resources
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\obj\Debug\Horror_Draft.Login.resources
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\obj\Debug\Horror_Draft.Properties.Resources.resources
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\obj\Debug\Horror_Draft.Server.resources
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\obj\Debug\Horror Draft.csproj.GenerateResource.cache
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\obj\Debug\Horror Draft.csproj.CoreCompileInputs.cache
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\obj\Debug\Horror D.5F357B5E.Up2Date
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\obj\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\obj\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Threading.Channels.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FOUR- SERVER\bin\Debug\System.Threading.Channels.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Horror Draft.exe.config
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Buffers.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.IO.Pipelines.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Memory.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Text.Json.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Threading.Channels.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.ValueTuple.dll
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Buffers.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.IO.Pipelines.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Memory.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Text.Json.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Threading.Channels.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\System.ValueTuple.xml
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\obj\Debug\Horror Draft.csproj.AssemblyReference.cache
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\obj\Debug\Horror_Draft.Form1.resources
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\obj\Debug\Horror_Draft.Login.resources
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\obj\Debug\Horror_Draft.Properties.Resources.resources
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\obj\Debug\Horror_Draft.Server.resources
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\obj\Debug\Horror Draft.csproj.GenerateResource.cache
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\obj\Debug\Horror Draft.csproj.CoreCompileInputs.cache
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\obj\Debug\Horror D.5F357B5E.Up2Date
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\obj\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\obj\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\obj\Debug\Horror_Draft.Welcome.resources
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\bin\Debug\HorrorDraftPractice.accdb
+C:\Users\magic\source\repos\Horror Draft - STEP FIVE - TEAM PAGES\obj\Debug\Horror_Draft.Teams.resources
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\HorrorDraftPractice.accdb
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Horror Draft.exe.config
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Buffers.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.IO.Pipelines.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Memory.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Text.Json.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Threading.Channels.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.ValueTuple.dll
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Buffers.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.IO.Pipelines.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Memory.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Text.Json.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Threading.Channels.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\bin\Debug\System.ValueTuple.xml
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\obj\Debug\Horror Draft.csproj.AssemblyReference.cache
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\obj\Debug\Horror_Draft.Form1.resources
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\obj\Debug\Horror_Draft.Login.resources
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\obj\Debug\Horror_Draft.Properties.Resources.resources
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\obj\Debug\Horror_Draft.Server.resources
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\obj\Debug\Horror_Draft.Teams.resources
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\obj\Debug\Horror_Draft.Welcome.resources
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\obj\Debug\Horror Draft.csproj.GenerateResource.cache
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\obj\Debug\Horror Draft.csproj.CoreCompileInputs.cache
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\obj\Debug\Horror D.5F357B5E.Up2Date
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\obj\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft - STEP SIX - PRETTY\obj\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\HorrorDraftPractice.accdb
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Horror Draft.exe.config
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Horror Draft.pdb
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Buffers.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.IO.Pipelines.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Memory.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Text.Json.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Threading.Channels.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.ValueTuple.dll
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Buffers.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.IO.Pipelines.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Memory.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Text.Json.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Threading.Channels.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\bin\Debug\System.ValueTuple.xml
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\obj\Debug\Horror Draft.csproj.AssemblyReference.cache
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\obj\Debug\Horror_Draft.Form1.resources
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\obj\Debug\Horror_Draft.Login.resources
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\obj\Debug\Horror_Draft.Properties.Resources.resources
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\obj\Debug\Horror_Draft.Server.resources
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\obj\Debug\Horror_Draft.Teams.resources
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\obj\Debug\Horror_Draft.Welcome.resources
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\obj\Debug\Horror Draft.csproj.GenerateResource.cache
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\obj\Debug\Horror Draft.csproj.CoreCompileInputs.cache
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\obj\Debug\Horror D.5F357B5E.Up2Date
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\obj\Debug\Horror Draft.exe
+C:\Users\magic\source\repos\Horror Draft - FINAL PROJECT\obj\Debug\Horror Draft.pdb
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Horror Draft.exe.config
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Horror Draft.exe
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Horror Draft.pdb
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Buffers.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.IO.Pipelines.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Memory.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Text.Json.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Threading.Channels.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.ValueTuple.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Buffers.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.IO.Pipelines.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Memory.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Text.Json.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Threading.Channels.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\bin\Debug\System.ValueTuple.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\obj\Debug\Horror Draft.csproj.AssemblyReference.cache
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\obj\Debug\Horror_Draft.Form1.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\obj\Debug\Horror_Draft.Login.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\obj\Debug\Horror_Draft.Properties.Resources.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\obj\Debug\Horror_Draft.Server.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\obj\Debug\Horror_Draft.Teams.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\obj\Debug\Horror_Draft.Welcome.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\obj\Debug\Horror Draft.csproj.GenerateResource.cache
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\obj\Debug\Horror Draft.csproj.CoreCompileInputs.cache
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\obj\Debug\Horror D.5F357B5E.Up2Date
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\obj\Debug\Horror Draft.exe
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FINAL PROJECT\obj\Debug\Horror Draft.pdb
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Horror Draft.exe.config
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Horror Draft.exe
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Horror Draft.pdb
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Buffers.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.IO.Pipelines.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Memory.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Text.Json.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Threading.Channels.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.ValueTuple.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Buffers.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.IO.Pipelines.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Memory.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Text.Json.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Threading.Channels.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\bin\Debug\System.ValueTuple.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\obj\Debug\Horror Draft.csproj.AssemblyReference.cache
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\obj\Debug\Horror_Draft.Form1.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\obj\Debug\Horror_Draft.Login.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\obj\Debug\Horror_Draft.Properties.Resources.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\obj\Debug\Horror_Draft.Server.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\obj\Debug\Horror_Draft.Teams.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\obj\Debug\Horror_Draft.Welcome.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\obj\Debug\Horror Draft.csproj.GenerateResource.cache
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\obj\Debug\Horror Draft.csproj.CoreCompileInputs.cache
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\obj\Debug\Horror D.5F357B5E.Up2Date
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\obj\Debug\Horror Draft.exe
+C:\Users\magic\OneDrive\Desktop\Horror Draft - FIXED - FINAL PROJECT\obj\Debug\Horror Draft.pdb
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Horror Draft.exe.config
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Horror Draft.exe
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Horror Draft.pdb
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Bcl.TimeProvider.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Buffers.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.IO.Pipelines.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Memory.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Net.ServerSentEvents.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Text.Json.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Threading.Channels.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.ValueTuple.dll
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Bcl.TimeProvider.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Buffers.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.IO.Pipelines.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Memory.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Net.ServerSentEvents.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Text.Json.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Threading.Channels.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\bin\Debug\System.ValueTuple.xml
+C:\Users\magic\OneDrive\Desktop\Horror Draft\obj\Debug\Horror Draft.csproj.AssemblyReference.cache
+C:\Users\magic\OneDrive\Desktop\Horror Draft\obj\Debug\Horror_Draft.Form1.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft\obj\Debug\Horror_Draft.Login.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft\obj\Debug\Horror_Draft.Properties.Resources.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft\obj\Debug\Horror_Draft.Server.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft\obj\Debug\Horror_Draft.Teams.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft\obj\Debug\Horror_Draft.Welcome.resources
+C:\Users\magic\OneDrive\Desktop\Horror Draft\obj\Debug\Horror Draft.csproj.GenerateResource.cache
+C:\Users\magic\OneDrive\Desktop\Horror Draft\obj\Debug\Horror Draft.csproj.CoreCompileInputs.cache
+C:\Users\magic\OneDrive\Desktop\Horror Draft\obj\Debug\Horror D.5F357B5E.Up2Date
+C:\Users\magic\OneDrive\Desktop\Horror Draft\obj\Debug\Horror Draft.exe
+C:\Users\magic\OneDrive\Desktop\Horror Draft\obj\Debug\Horror Draft.pdb
