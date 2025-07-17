@@ -1,0 +1,97 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/rave_bg2"
+        android:scaleType="centerCrop"
+        android:contentDescription="@null" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="24dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Rave Photographer"
+                android:textSize="58sp"
+                android:textStyle="bold"
+                android:textColor="#00FFFF"
+                android:shadowColor="#000000"
+                android:shadowDx="2"
+                android:shadowDy="2"
+                android:shadowRadius="5"
+                android:letterSpacing="0.07"
+                android:paddingBottom="16dp" />
+
+            <LinearLayout
+                android:id="@+id/zombiePoseContainer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center"
+                android:padding="16dp">
+
+                <ImageView
+                    android:id="@+id/zombiePoseImageView"
+                    android:layout_width="300dp"
+                    android:layout_height="300dp"
+                    android:scaleType="fitCenter"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:id="@+id/photoResultTextView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@android:color/white"
+                    android:textSize="32sp"
+                    android:layout_marginTop="12dp" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/shareToInstagramButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Share to Instagram"
+                android:backgroundTint="#FF00FF"
+                android:textSize="33sp"
+                android:visibility="gone" />
+
+            <Button
+                android:id="@+id/buttonTakePhoto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="📷 Take Photo"
+                android:textSize="33sp"
+                android:layout_marginTop="164dp"
+                android:backgroundTint="#FF00FF"
+                android:textColor="#FFFFFF"
+                android:letterSpacing="0.05"
+                android:elevation="8dp"
+                android:shadowColor="#000000"
+                android:shadowDx="1"
+                android:shadowDy="1"
+                android:shadowRadius="3" />
+
+        </LinearLayout>
+    </ScrollView>
+
+    <View
+        android:id="@+id/flashOverlay"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFFFF"
+        android:visibility="gone"
+        android:alpha="0"
+        android:elevation="10dp" />
+</FrameLayout>
