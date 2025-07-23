@@ -1,0 +1,28 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="8dp"
+    android:background="@drawable/ingredient_card_background"
+    android:layout_margin="6dp"
+    android:gravity="center"
+    android:elevation="4dp">
+
+    <ImageView
+        android:id="@+id/ingredientImage"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:scaleType="centerCrop"
+        android:contentDescription="@null" />
+
+    <TextView
+        android:id="@+id/ingredientTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ingredient"
+        android:textSize="18sp"
+        android:textColor="#FFFFFF"
+        android:paddingTop="8dp"
+        android:fontFamily="@font/slash_font"
+        android:gravity="center" />
+</LinearLayout>

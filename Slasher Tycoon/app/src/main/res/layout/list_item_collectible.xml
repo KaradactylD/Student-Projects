@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/collectible_box_background"
+    android:padding="16dp"
+    android:layout_marginBottom="12dp"
+    android:elevation="6dp">
+
+    <TextView
+        android:id="@+id/collectibleNameText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spiked Punch Cup"
+        android:textSize="32sp"
+        android:textStyle="bold"
+        android:textColor="#B30030"
+        android:shadowColor="#000000"
+        android:shadowDx="1"
+        android:shadowDy="1"
+        android:shadowRadius="3"
+        android:letterSpacing="0.05" />
+
+    <TextView
+        android:id="@+id/collectibleDateText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Found on: Jul 9, 2025"
+        android:textSize="26sp"
+        android:textColor="#D9465E"
+        android:shadowColor="#1A0000"
+        android:layout_marginTop="4dp" />
+</LinearLayout>
