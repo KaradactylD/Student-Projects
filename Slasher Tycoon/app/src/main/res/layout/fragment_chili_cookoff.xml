@@ -1,0 +1,95 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/chiliBackground"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:src="@drawable/cookoff_bg"
+        android:contentDescription="Cookoff Background" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:padding="20dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Chili Cookoff"
+                android:textSize="70sp"
+                android:textStyle="bold"
+                android:textColor="#D9381E"
+                android:letterSpacing="0.07"
+                android:fontFamily="@font/slash_font"
+                android:layout_gravity="center_horizontal"
+                android:shadowColor="#000000"
+                android:shadowDx="6"
+                android:shadowDy="4"
+                android:shadowRadius="8"
+                android:layout_marginBottom="12dp" />
+
+            <TextView
+                android:id="@+id/chooseIngredientsLabel"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="🍲 Choose 5 Ingredients"
+                android:textSize="32sp"
+                android:textColor="#FFCC00"
+                android:fontFamily="@font/slash_font"
+                android:shadowColor="#000000"
+                android:shadowDx="2"
+                android:shadowDy="2"
+                android:shadowRadius="4"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="10dp" />
+
+            <androidx.recyclerview.widget.RecyclerView
+                android:id="@+id/ingredientRecyclerView"
+                android:layout_width="match_parent"
+                android:layout_height="350dp"
+                android:padding="6dp"
+                android:clipToPadding="false"
+                android:scrollbars="vertical" />
+
+            <Button
+                android:id="@+id/submitChiliButton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="🌶️ Submit Your Chili"
+                android:textSize="34sp"
+                android:textColor="#7FFF00"
+                android:backgroundTint="#FF2200"
+                android:fontFamily="@font/slash_font"
+                android:shadowColor="#000000"
+                android:shadowDx="0"
+                android:shadowDy="0"
+                android:shadowRadius="4"
+                android:padding="10dp"
+                android:layout_marginTop="12dp"
+                android:layout_marginBottom="8dp" />
+
+            <TextView
+                android:id="@+id/judgeResultsTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="👨‍⚖️ The judges are waiting..."
+                android:textSize="26sp"
+                android:textColor="#FFFFFF"
+                android:background="#55224466"
+                android:padding="12dp"
+                android:fontFamily="@font/slash_font"
+                android:letterSpacing="0.02"
+                android:layout_marginBottom="10dp" />
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

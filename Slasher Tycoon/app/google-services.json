@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57222618538",
+    "project_id": "slashertycoon",
+    "storage_bucket": "slashertycoon.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57222618538:android:68099e40d7bac0c3a59fd3",
+        "android_client_info": {
+          "package_name": "com.kcrumptonslashertycoon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkM4MI5ZY_dYdYqWyxFAzWNd6Wazgrj2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

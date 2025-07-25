@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/dashboardFragment">
+
+    <fragment
+        android:id="@+id/loginFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.LoginFragment"
+        android:label="Login"
+        tools:layout="@layout/fragment_login">
+
+        <action
+            android:id="@+id/action_loginFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+    </fragment>
+
+
+    <fragment
+        android:id="@+id/dashboardFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.DashboardFragment"
+        android:label="fragment_dashboard"
+        tools:layout="@layout/fragment_dashboard" >
+        <action
+            android:id="@+id/action_dashboardFragment_to_ghostfaceSuburbFragment"
+            app:destination="@id/ghostfaceSuburbFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_jasonCabinFragment"
+            app:destination="@id/jasonCabinFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_jigsawWarehouseFragment"
+            app:destination="@id/jigsawWarehouseFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_victorSwampFragment"
+            app:destination="@id/victorSwampFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_freddyBoilerFragment"
+            app:destination="@id/freddyBoilerFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_candymanHiveFragment"
+            app:destination="@id/candymanHiveFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_carrieSchoolFragment"
+            app:destination="@id/carrieSchoolFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_leprechaunLairFragment"
+            app:destination="@id/leprechaunLairFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_leslieBarnFragment"
+            app:destination="@id/leslieBarnFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_bughuulTheaterFragment"
+            app:destination="@id/bughuulTheaterFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_collectorTrapFragment"
+            app:destination="@id/collectorTrapFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_profileFragment"
+            app:destination="@id/profileFragment" />
+        <action
+            android:id="@+id/action_dashboardFragment_to_extraCashFragment"
+            app:destination="@id/extraCashFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/freddyBoilerFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.FreddyBoilerFragment"
+        android:label="fragment_freddy_boiler"
+        tools:layout="@layout/fragment_freddy_boiler" >
+        <argument
+            android:name="taskMessage"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_freddyBoilerFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_freddyBoilerFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/ghostfaceSuburbFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.GhostfaceSuburbFragment"
+        android:label="fragment_ghostface_suburb"
+        tools:layout="@layout/fragment_ghostface_suburb" >
+        <argument
+            android:name="taskMessage"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_ghostfaceSuburbFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_ghostfaceSuburbFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/jasonCabinFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.JasonCabinFragment"
+        android:label="fragment_jason_cabin"
+        tools:layout="@layout/fragment_jason_cabin" >
+        <argument
+            android:name="taskMessage"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_jasonCabinFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_JasonCabinFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/jigsawWarehouseFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.JigsawWarehouseFragment"
+        android:label="fragment_jigsaw_warehouse"
+        tools:layout="@layout/fragment_jigsaw_warehouse" >
+        <argument
+            android:name="taskMessage"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_jigsawWarehouseFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_JigsawWarehouseFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/victorSwampFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.VictorSwampFragment"
+        android:label="fragment_victor_swamp"
+        tools:layout="@layout/fragment_victor_swamp" >
+        <argument
+            android:name="taskMessage"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_victorSwampFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_VictorSwampFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/candymanHiveFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.CandymanHiveFragment"
+        android:label="fragment_candyman_hive"
+        tools:layout="@layout/fragment_candyman_hive" >
+        <argument
+            android:name="taskMessage"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_candymanHiveFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_candymanHiveFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/carrieSchoolFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.CarrieSchoolFragment"
+        android:label="fragment_carrie_school"
+        tools:layout="@layout/fragment_carrie_school" >
+        <argument
+            android:name="taskMessage"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_carrieSchoolFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_carrieSchoolFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/leprechaunLairFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.LeprechaunLairFragment"
+        android:label="fragment_leprechaun_lair"
+        tools:layout="@layout/fragment_leprechaun_lair" >
+        <argument
+            android:name="taskMessage"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_leprechaunLairFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_leprechaunLairFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/leslieBarnFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.LeslieBarnFragment"
+        android:label="fragment_leslie_barn"
+        tools:layout="@layout/fragment_leslie_barn" >
+        <argument
+            android:name="taskMessage"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_leslieBarnFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_leslieBarnFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/bughuulTheaterFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.BughuulTheaterFragment"
+        android:label="fragment_bughuul_theater"
+        tools:layout="@layout/fragment_bughuul_theater" >
+        <argument
+            android:name="taskMessage"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_bughuulTheaterFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_bughuulTheaterFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/collectorTrapFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.CollectorTrapFragment"
+        android:label="fragment_collector_trap"
+        tools:layout="@layout/fragment_collector_trap" >
+        <argument
+            android:name="taskMessage"
+            app:argType="string" />
+        <action
+            android:id="@+id/action_collectorTrapFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_collectorTrapFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/storeFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.StoreFragment"
+        android:label="Store" >
+        <action
+            android:id="@+id/action_storeFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <argument
+            android:name="roomName"
+            app:argType="string" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.ProfileFragment"
+        android:label="ProfileFragment" >
+        <action
+            android:id="@+id/action_profileFragment_to_dashboardFragment"
+            app:destination="@id/dashboardFragment" />
+        <action
+            android:id="@+id/action_profileFragment_to_collectiblesFragment"
+            app:destination="@id/collectiblesFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/collectiblesFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.CollectiblesFragment"
+        android:label="Collectibles"
+        tools:layout="@layout/fragment_collectibles" />
+    <fragment
+        android:id="@+id/extraCashFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.ExtraCashFragment"
+        android:label="Need Extra Cash?"
+        tools:layout="@layout/fragment_extra_cash" >
+        <action
+            android:id="@+id/action_extraCashFragment_to_chiliCookoffFragment"
+            app:destination="@id/chiliCookoffFragment" />
+        <action
+            android:id="@+id/action_extraCashFragment_to_ravePhotographerFragment"
+            app:destination="@id/RavePhotographerFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/chiliCookoffFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.ChiliCookoffFragment"
+        android:label="Chili Cookoff"
+        tools:layout="@layout/fragment_chili_cookoff">
+
+        <action
+            android:id="@+id/action_chiliCookoffFragment_to_storeFragment"
+            app:destination="@id/storeFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/RavePhotographerFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.RavePhotographerFragment"
+        android:label="Zombie Rave Photographer"
+        tools:layout="@layout/fragment_rave_photographer" />
+    <fragment
+        android:id="@+id/instructionsFragment"
+        android:name="com.kcrumptonslashertycoon.fragments.InstructionsFragment"
+        android:label="Instructions">
+        <action
+            android:id="@+id/action_dashboardFragment_to_instructionsFragment"
+            app:destination="@id/instructionsFragment" />
+    </fragment>
+
+</navigation>

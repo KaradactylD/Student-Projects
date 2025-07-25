@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_primary">#000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="xpColor">#FFEB3B</color>
+    <color name="task_inactive_green">#602F4F2F</color>
+    <color name="task_active_red">#90FF3B3B</color>
+    <color name="task_active_ghostface">#90DC143C</color>
+    <color name="task_inactive_ghostface">#802C3E50</color>
+    <color name="task_active_freddy">#90702A2A</color>
+    <color name="task_inactive_freddy">#903E663E</color>
+    <color name="task_active_victor">#908B2E2E</color>
+    <color name="task_inactive_victor">#608C6B3F</color>
+    <color name="task_active_jigsaw">#90DC143C</color>
+    <color name="task_inactive_jigsaw">#605C4033</color>
+    <color name="task_active_candyman">#903F0000</color>
+    <color name="task_inactive_candyman">#605C4033</color>
+    <color name="task_inactive_carrie">#602F4F2F</color>
+    <color name="task_active_carrie">#90811A21</color>
+    <color name="task_inactive_collector">#802C3E50</color>
+    <color name="task_active_collector">#90811A21</color>
+    <color name="task_inactive_bughuul">#802C3E50</color>
+    <color name="task_active_bughuul">#903F0000</color>
+</resources>
